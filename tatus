@@ -1,0 +1,31 @@
+[33mcommit ffee828e6ed77d73b607f81431bc98d9cb081f86[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Daryll1007 <dchrist8@mycambrian.ca>
+Date:   Tue Oct 1 18:51:00 2024 -0400
+
+    Add all project files
+
+[33mcommit 53368fb806d7289e4f1c3a12f03a549898f174ab[m
+Author: Daryll1007 <dchrist8@mycambrian.ca>
+Date:   Tue Oct 1 18:45:49 2024 -0400
+
+    Revert "Initial commit"
+    
+    This reverts commit 66afda87161102215010b98b620a214d9d19a665.
+
+[33mcommit 49937f78390142340e3dda36980a6c3b2dcdd299[m
+Author: Daryll1007 <dchrist8@mycambrian.ca>
+Date:   Tue Oct 1 18:35:27 2024 -0400
+
+    Initial commit with project files
+
+[33mcommit ff8cade3ab2848f511a7c22e2133d9e9a3df8dc4[m
+Author: Daryll Christian <dchrist8@mycambrian.ca>
+Date:   Tue Oct 1 18:31:12 2024 -0400
+
+    Your commit message here
+
+[33mcommit 66afda87161102215010b98b620a214d9d19a665[m
+Author: Daryll Christian <christianseleen@gmail.com>
+Date:   Tue Oct 1 18:16:06 2024 -0400
+
+    Initial commit
