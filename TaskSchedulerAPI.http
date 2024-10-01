@@ -1,6 +1,0 @@
-@TaskSchedulerAPI_HostAddress = http://localhost:5287
-
-GET {{TaskSchedulerAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
